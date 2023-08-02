@@ -37,7 +37,7 @@ namespace RootParamID
 		pointerForGlobalConstants = 3,
 		tableForHDRMap = 4,
 		tableForSampler = 5,
-		//tableForIronSphere = 6,
+		//tableForIronTexture = 6,
 		numParams
 	};
 }
